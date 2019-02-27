@@ -71,3 +71,21 @@ h1 {
     width: 80vw;
   }
 }
+
+/* Regular Portrait Screens */
+@media screen and (min-width: 501px) and (orientation: portrait) {
+  body {
+    font-size: 3.5vw;
+  }
+  .brand, .about {
+    margin: auto;
+    text-align: center;
+  }
+  .brand {
+    width: 45vw;
+    margin-top: 10vw;
+  }
+  .about {
+    width: 50vw;
+  }
+}
