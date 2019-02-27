@@ -13,11 +13,15 @@ body {
   padding-bottom: 5ex;
 }
 
-/* Gradient */
-body {
+.bg {
   background: #059cf1;
   background: linear-gradient(135deg, #059cf1 0%, #0d6ae3 100%);
+  top: 0;
+  left: 0;
   height: 100vh;
+  width: 100vw;
+  position: fixed;
+  z-index: -1;
 }
 
 a:not(.store) {
