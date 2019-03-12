@@ -43,7 +43,7 @@ p {
 
 h1 {
   font-weight: 700;
-  font-size: 250%;
+  font-size: 230%;
   font-style: normal;
   line-height: 1;
 }
@@ -54,7 +54,7 @@ h1 {
 }
 
 .logo {
-  margin-bottom: 1ex;
+  margin-bottom: 0.8ex;
 }
 
 .store {
