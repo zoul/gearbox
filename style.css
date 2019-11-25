@@ -14,8 +14,8 @@ body {
 }
 
 .bg {
-  background: #FE902F;
-  background: linear-gradient(35deg, #FE902F 0%, #FC6D44 100%);
+  background: #FF8630;
+  background: linear-gradient(35deg, #FF8630 0%, #F23863 100%);
   top: 0;
   left: 0;
   height: 100vh;
