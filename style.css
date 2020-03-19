@@ -25,7 +25,7 @@ body {
 }
 
 a:not(.store) {
-  color: #f3f3f3;
+  color: #3f3f3f;
   text-decoration: none;
   border-bottom: 2px solid #f3f3f3;
   padding-bottom: 0.2ex;
