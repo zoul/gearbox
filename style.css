@@ -9,13 +9,13 @@ body {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   font-style: italic;
-  color: #f3f3f3;
+  color: #3f3f3f;
   padding-bottom: 5ex;
 }
 
 .bg {
-  background: #FF8630;
-  background: linear-gradient(24deg, #FF8630 0%, #F23863 100%);
+  background: #F5F6F8;
+  background: linear-gradient(24deg, #F5F6F8 0%, #E7E8ED 100%);
   top: 0;
   left: 0;
   height: 100vh;
